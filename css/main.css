@@ -124,15 +124,10 @@ ul {
   width: 593px;
   float: left;
   text-align: right;
+  text-decoration: none;
+  color: white;
 }
 
-<<<<<<< HEAD
-
-=======
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 18px;
->>>>>>> development-sw
-}
 #menu a {
   color: white;
   text-decoration: none;
