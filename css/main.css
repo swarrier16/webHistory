@@ -100,16 +100,14 @@ ul {
 }
 .left {
   border-radius : 2px;
+  position: static;
   foalt: left;
 }
-.right{
-border-radius: 2px;
-float: right;
-}
-#banner h1 {
-  margin: 0px;
-  padding: 0px;
-}
+.right {
+  border-radius: 2px;
+  position: static;
+  float: right;
+} 
 #header {
   background-color:red;
   height: 70px;
