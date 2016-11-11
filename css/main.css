@@ -147,7 +147,6 @@ ul {
 #feature1, #feature2, #feature3 {
   float: left;
   width: 320px;
-
 }
 #banner img {
   width: 100%;
@@ -157,10 +156,21 @@ ul {
   clear: both;
 }
 
-
-
-
-
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+}
+	
+a{
+  color: white;
+  text-decoration: none;
+}
 
 
 
